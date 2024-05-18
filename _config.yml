@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Saul Schaffer 2022-01-30-CROPPED.jpg"
+  avatar           : "profile.jpg"
   name             : "Saul Schaffer"
   pronouns         : # example: "he/him"  
   bio              : "National Science Foundation Graduate Research Fellow"
