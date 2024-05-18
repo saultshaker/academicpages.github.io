@@ -1,6 +1,6 @@
 ---
 title: "Glass Pug Griffin"
-excerpt: "Full view of Pug Griffin 1<br/><img src='/images/'glass-pug-griffin-v003.JPG'>"
+excerpt: "Full view of Pug Griffin 1<br/><img src='/images/glass-pug-griffin-v003.JPG'>"
 collection: portfolio
 ---
 
