@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Glass Pug Griffin"
+excerpt: "Full view of Pug Griffin 1<br/><img src='/images/'glass-pug-griffin-v003.JPG'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This glass sculpture is of a hybrid Pug-Griffin. It features the the head of a pug and the body of a griffin. 
+
+Link to the 3D model ([.STL](https://www.thingiverse.com/thing:3494581).
