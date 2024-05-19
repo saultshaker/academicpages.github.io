@@ -1,4 +1,15 @@
 ---
+layout: archive
+title: "Resume"
+permalink: /resume/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+---
 title: "Resume"
 collection: Resume
 permalink: /resume/Saul_Schaffer_resume_May_2024.pdf
