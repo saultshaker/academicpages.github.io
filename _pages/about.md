@@ -15,13 +15,15 @@ Prior to starting my Ph.D., I earned a B.S. in Mechanical Engineering from the U
 
 Besides research, I am also a avid artist, rock climber, and chef. I especially love working in glass as a medium. 
 
+<!--
 
 
 
-I'm Pam Cai – a 2024 Arnold O. Beckman Postdoctoral Fellow in the [Tirrell Lab](https://pme.uchicago.edu/group/tirrell-lab) at the University of Chicago Pritzker School of Molecular Engineering, where my focus is on synthesizing sustainable polymer materials by leveraging polyelectrolyte complexation. I successfully defended my Ph.D. in Chemical Engineering at Stanford University in May 2023. During my Ph.D., I worked with [Professor Andrew Spakowitz](https://web.stanford.edu/~ajspakow/) and [Professor Sarah Heilshorn](https://web.stanford.edu/group/heilshorn/), focusing on using polymer physics models to gain fundamental insight into biomaterial development and biological fluid physics. Prior to starting my Ph.D., I completed a B.S. in Chemical Engineering at MIT.  
 
-Besides <a href="research">research</a>, I am also very dedicated to STEM outreach and have been a part of many mentoring organizations with missions to help women and underrepresented minorities to gain access to resources they need to succeed, including [Minds Matter](https://mindsmatternyc.org) in New York City and [Future Advancers for Science and Technology (FAST)](https://fast.stanford.edu) at Stanford. I am especially passionate about introducing more students to the field of chemical engineering, which I think gives a great skillset to tackle most modern engineering challenges.
+# I'm Pam Cai – a 2024 Arnold O. Beckman Postdoctoral Fellow in the [Tirrell Lab](https://pme.uchicago.edu/group/tirrell-lab) at the University of Chicago Pritzker School of Molecular Engineering, where my focus is on synthesizing sustainable polymer materials by leveraging polyelectrolyte complexation. I successfully defended my Ph.D. in Chemical Engineering at Stanford University in May 2023. During my Ph.D., I worked with [Professor Andrew Spakowitz](https://web.stanford.edu/~ajspakow/) and [Professor Sarah Heilshorn](https://web.stanford.edu/group/heilshorn/), focusing on using polymer physics models to gain fundamental insight into biomaterial development and biological fluid physics. Prior to starting my Ph.D., I completed a B.S. in Chemical Engineering at MIT.  
 
+# Besides <a href="research">research</a>, I am also very dedicated to STEM outreach and have been a part of many mentoring organizations with missions to help women and underrepresented minorities to gain access to resources they need to succeed, including [Minds Matter](https://mindsmatternyc.org) in New York City and [Future Advancers for Science and Technology (FAST)](https://fast.stanford.edu) at Stanford. I am especially passionate about introducing more students to the field of chemical engineering, which I think gives a great skillset to tackle most modern engineering challenges.
+-->
 
 ## Notable Highlights
 
@@ -31,7 +33,7 @@ Besides <a href="research">research</a>, I am also very dedicated to STEM outrea
 * Nov '22 - Won 1st Place Speaker for Graduate Excellence in Polymer Research at AIChE
 * Sep '22 - Named MIT Rising Star in Chemical Engineering
 * Apr '19 - Designated as a Stanford Bio-X Honorary Fellow
-* Apr '19 - Received the National Science Foundation Graduate Research Fellowship (NSF GRFP)!
+* Apr '20 - Won prestigious National Science Foundation Graduate Research Fellowship (NSF GRFP)!
 
 
 
