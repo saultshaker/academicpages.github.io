@@ -9,7 +9,11 @@ redirect_from:
 
 Hello!
 
-I'm Saul Schaffer -- a National Science Foundation Graduate Research Fellow at Carngie Mellon University in the Biohybrid and Organic Robotics Group ([BORG](https://www.meche.engineering.cmu.edu/faculty/borg/index.html))
+I'm Saul Schaffer -- a National Science Foundation Graduate Research Fellow at Carngie Mellon University in the Biohybrid and Organic Robotics Group ([BORG](https://www.meche.engineering.cmu.edu/faculty/borg/index.html)). My research is at the intersection of bioengineering and robotics. My Ph.D. focuses on developing a toolkit for engineering living, biohybrid robots actuated by biological muscle tissue. I am scheduled to defend my thesis in August 2024. 
+
+Prior to starting my Ph.D., I earned a B.S. in Mechanical Engineering from the University of Maryland at College Park. 
+
+Besides research, I am also a avid artist, rock climber, and chef. I especially love working in glass as a medium. 
 
 
 
