@@ -13,7 +13,7 @@ redirect_from:
 title: "Resume"
 collection: Resume
 permalink: /resume/Saul_Schaffer_resume_May_2024.pdf
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2009-10-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
