@@ -1,0 +1,20 @@
+---
+layout: default
+title: "Art Gallery"
+---
+
+<header>
+    <h1>Art Gallery</h1>
+</header>
+
+<main>
+    <section class="masonry">
+        {% for item in site.portfolio %}
+        <div class="masonry-item">
+            <h2>{{ item.title }}</h2>
+            <div class="excerpt">{{ item.excerpt | markdownify }}</div>
+            <a href="{{ item.url }}"><img src="{{ item.image }}" alt="{{ item.title }}"></a>
+        </div>
+        {% endfor %}
+    </section>
+</main>
