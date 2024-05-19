@@ -13,7 +13,7 @@ I'm Saul Schaffer -- a National Science Foundation Graduate Research Fellow at C
 
 Prior to starting my Ph.D., I earned a B.S. in Mechanical Engineering from the University of Maryland at College Park. 
 
-Beyond research, I am also a avid artist. I love to design my work using 3D modeling softwares like Meshmixer and SolidWorks. I often 3D print my work in plastic. I especially love working in glass as a medium. Check out my work <a href="portfolio">here</a>
+Beyond research, I am also a avid artist. I love to design my work using 3D modeling softwares like Meshmixer and SolidWorks. I often 3D print my work in plastic. I especially love working in glass as a medium. Check out my art <a href="portfolio">here</a>.
 
 <!--
 
