@@ -11,6 +11,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
+
+# this file is hosted, but can't be navigated to, as is intended
 url: /files/Saul_Schaffer_NSF_I-Corps™_NERIN_Spring_2024.pdf
 
  # - title: "Teaching"
