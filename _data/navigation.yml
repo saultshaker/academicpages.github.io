@@ -2,14 +2,14 @@
 main:
   
   
-  - title: "Creative Work"
-    url: /portfolio/  
+  # - title: "Creative Work"
+    # url: /portfolio/  
 
-  - title: "Publications"
+  # - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+    # url: /talks/    
 
 
 # this file is hosted, but can't be navigated to, as is intended
